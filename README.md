@@ -25,5 +25,5 @@ Aqui está uma descrição de cada arquivo e diretório principal do projeto:
 ---
 
 
-## Video demonstração
+## 📹 Video demonstração
 - https://drive.google.com/file/d/1QGOFt2yAIscC2j9ZZX_7zY2wjTsZETwa/view?usp=sharing
